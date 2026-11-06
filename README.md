@@ -83,11 +83,9 @@ OculoComm/
 ├── .gitignore                    # Build output and temporary file filter
 ├── LICENSE                       # MIT Open-Source License
 └── README.md                     # Main repository documentation
+```
 
 
-Here are sections 6 through 8, formatted and ready for you to copy and paste directly into your GitHub `README.md`:
-
-```markdown
 ## 6. How to Build & Flash the Code
 
 ### Prerequisites
@@ -126,4 +124,4 @@ Because this is a functional proof-of-concept prototype built under tight time c
 
 This project is open-source under the **MIT License**. Feel free to use, modify, and build upon this hardware and software design.
 
-```
+
